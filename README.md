@@ -1,4 +1,3 @@
-# Glenyrdskynrd
 
 <html>
 <head>
